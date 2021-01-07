@@ -1,4 +1,4 @@
 # CSS-study
 
-Study purpose only
-Notes and practice of CSS 
+# Study purpose only
+# Notes and practice of CSS 
